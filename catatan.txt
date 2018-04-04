@@ -1,0 +1,5 @@
+git clone https://github.com/riokt/basic_python.git
+
+http://rogerdudler.github.io/git-guide/
+
+https://www.datacamp.com/courses/introduction-to-git-for-data-science
